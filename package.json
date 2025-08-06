@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "@openzeppelin/contracts-upgradeable": "^5.4.0",
+    "@openzeppelin/hardhat-upgrades": "^3.9.1",
+    "dotenv": "^17.2.1",
+    "hardhat-contract-sizer": "^2.10.0",
+    "truffle-contract-size": "^2.0.1"
+  },
+  "devDependencies": {
+    "hardhat-deploy": "^1.0.4"
+  }
+}
